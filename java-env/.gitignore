@@ -1,6 +1,0 @@
-*.zip
-*.tar.gz
-
-apache-maven*
-jdk*
-gradle*
